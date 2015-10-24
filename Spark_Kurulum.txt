@@ -56,7 +56,10 @@ AuthorizedKeysFile      /etc/ssh/genel/authorized_keys
 
 #pip3.4 install ipython[all]
 
+--Ubuntu sudo pip install mock
+--sudo pip install testpath
 #iptest
+
 
 $cd /BigData/runtime
 

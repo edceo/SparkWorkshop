@@ -21,7 +21,7 @@ Başında hiçbir şey olmayanlar text editörü ile değiştirilmeli
 
 #pip3.4 install matplotlib
 
---Ubuntu için yukarıdaki işlemler
+--Ubuntu için aşağıdaki işlemler
 
 #sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
